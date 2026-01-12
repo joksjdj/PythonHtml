@@ -1,0 +1,23 @@
+{
+    
+"defaults": {
+    "position": { "align": "left", "x": { "value": "0", "type": "%" }, "y": { "value": "0", "type": "%" } },
+    "color": "255, 0, 0",
+    "size": {
+        "width": { "value": "10", "type": "%" },
+        "height": { "value": "10", "type": "%" }
+    },
+    "font": "Arial",
+    "font-size": { "value": "10", "type": "%" }
+},
+
+"box": {
+    "position": { "align": "left", "x": { "value": "25", "type": "%" }, "y": { "value": "25", "type": "%" } },
+    "color": "0, 0, 255",
+    "size": {
+        "width": { "value": "50", "type": "%" },
+        "height": { "value": "50", "type": "%" }
+    }
+}
+
+}
